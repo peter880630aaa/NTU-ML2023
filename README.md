@@ -17,6 +17,6 @@ Course website: [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
 |10|Attack|[Link](HW10/HW10.pdf)|[Adversarial Attack](HW10/homework10.ipynb)|`0.06`|`0.09`|10|
 |11|Adaptation|[Link](HW11/HW11.pdf)|[Domain Adaptation](HW11/homework11.ipynb)|x|x|x|
 |12|Reinforcement Learning|[Link](HW12/HW12.pdf)|[Reinforcement Learning](HW12/homework12.ipynb)|x|x|x|
-|13|Network Compression|[Link](HW13/HW13.pdf)|[Food Classification](HW13/homework13.ipynb)|`0.80883`|`0.79621`|x|
-|14|Life-long Learning|[Link](HW14/HW14.pdf)|[Permuted MNIST](HW14/homework14.ipynb)|x|x|x|
-|15|Meta Learning|[Link](HW15/HW15.pdf)|[Few-shot image classification](HW15/homework15.ipynb)|x|x|x|
+|13|Network Compression|[Link](HW13/HW13.pdf)|[Network Compression](HW13/homework13.ipynb)|`0.80883`|`0.79621`|x|
+|14|Life-long Learning|[Link](HW14/HW14.pdf)|[Life-long Learning](HW14/homework14.ipynb)|x|x|x|
+|15|Meta Learning|[Link](HW15/HW15.pdf)|[Few-shot Classification](HW15/homework15.ipynb)|x|x|x|
