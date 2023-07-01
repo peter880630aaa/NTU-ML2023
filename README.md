@@ -1,2 +1,22 @@
 # NTU-ML2023
-NTU EE Course, HUNG-YI LEE (李宏毅)
+NTU EE Course, HUNG-YI LEE (李宏毅)  
+Course website: [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
+
+# Homeworks
+|#|Homework|Slide|Code|Public score|Private Score|Score|
+|-|-|-|-|-|-|-|
+|1|Regression|[Link](HW1/HW01.pdf)|[COVID-19 Cases Prediction](HW1/homework1.ipynb)|`0.83889`|`0.88959`|8|
+|2|Classification|[Link](HW2/HW02.pdf)|[Phoneme Classification](HW2/homework2_1.ipynb)|`0.83732`|`0.83754`|9|
+|3|CNN|[Link](HW3/HW03.pdf)|[Image Classification](HW3/homework3.ipynb)|`0.90666`|`0.90733`|9.6|
+|4|Self-attention|[Link](HW4/HW04.pdf)|[Speaker prediction](HW4/homework4.ipynb)|`0.95950`|`0.96200`|10|
+|5|Transformer|[Link](HW5/HW05.pdf)|[Machine Translation](HW5/homework5.ipynb)|`36.92`|`36.56`|10+0.5([report](HW6/hw6_report.pdf))|
+|6|Generative Model|[Link](HW6/HW06.pdf)|[Anime Face Generation](HW6/homework6.ipynb)|`0.987`, `8468.42`|x|10|
+|7|BERT|[Link](HW7/HW07.pdf)|[Question Answering](HW7/homework7.ipynb)|`0.85187`|`0.84392`|9.5|
+|8|Auto-encoder|[Link](HW8/HW08.pdf)|[Anomaly Detection](HW8/homework8.ipynb)|`0.85806`|`0.86123`|10|
+|9|Explainable AI|[Link](HW9/HW09.pdf)|[Explainable AI](HW9/homework9.ipynb)|x|x|10|
+|10|Attack|[Link](HW10/HW10.pdf)|[Adversarial Attack](HW10/homework10.ipynb)|`0.06`|`0.09`|10|
+|11|Adaptation|[Link](HW11/HW11.pdf)|[Domain Adaptation](HW11/homework11.ipynb)|x|x|x|
+|12|Reinforcement Learning|[Link](HW12/HW12.pdf)|[Reinforcement Learning](HW12/homework12.ipynb)|x|x|x|
+|13|Network Compression|[Link](HW13/HW13.pdf)|[Food Classification](HW13/homework13.ipynb)|`0.80883`|`0.79621`|x|
+|14|Life-long Learning|[Link](HW14/HW14.pdf)|[Permuted MNIST](HW14/homework14.ipynb)|x|x|x|
+|15|Meta Learning|[Link](HW15/HW15.pdf)|[Few-shot image classification](HW15/homework15.ipynb)|x|x|x|
