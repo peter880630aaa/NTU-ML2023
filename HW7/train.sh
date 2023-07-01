@@ -1,0 +1,1 @@
+python run_qa_no_trainer.py --model_name_or_path hfl/chinese-lert-large --output_dir ./ckpt

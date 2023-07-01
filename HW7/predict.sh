@@ -1,0 +1,1 @@
+python run_qa_no_trainer2.py --model_name_or_path ./ckpt --test_file hw7_test.json --pred_file pred_qa.csv --do_predict
