@@ -9,7 +9,7 @@ Course website: [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
 |2|Classification|[Link](HW2/HW02.pdf)|[Phoneme Classification](HW2/ML2023Spring_HW2_2.ipynb)|`0.83732`|`0.83754`|9|
 |3|CNN|[Link](HW3/HW03.pdf)|[Image Classification](HW3)|`0.90666`|`0.90733`|9.6|
 |4|Self-attention|[Link](HW4/HW04.pdf)|[Speaker prediction](HW4/ML2023_hw04.ipynb)|`0.95950`|`0.96200`|10|
-|5|Transformer|[Link](HW5/HW05.pdf)|[Machine Translation](HW5)|`36.92`|`36.56`|10+0.5([report](HW6/hw6_report.pdf))|
+|5|Transformer|[Link](HW5/HW05.pdf)|[Machine Translation](HW5)|`36.92`|`36.56`|10+0.5([report](HW5/ML2023Spring_Bonus_Report.pdf))|
 |6|Generative Model|[Link](HW6/HW06.pdf)|[Anime Face Generation](HW6)|`0.987`, `8468.42`|x|10|
 |7|BERT|[Link](HW7/HW07.pdf)|[Question Answering](HW7)|`0.85187`|`0.84392`|9.5|
 |8|Auto-encoder|[Link](HW8/HW08.pdf)|[Anomaly Detection](HW8/ML2023Spring_HW8.ipynb)|`0.85806`|`0.86123`|10|
